@@ -16,8 +16,8 @@ SLEZ is a class i wrote to make things simpler and easier.
 The search_torrents function inside of torrent_search/main is very important when running on windows vs an ubunutu server
 
 In windows not much problems would occur. but in ubunutu:
--[x] make sure you are not the root user.
--[x] Make sure you do not run the bot in sudo mode
+- [x] make sure you are not the root user.
+- [x] Make sure you do not run the bot in sudo mode
 - [x] There is no need for a virtual display really
 - [x] for any reason if you get an Error right after SLEZ starts the driver download, there is a chance that it did not complete it fully so it would be best to delete that manually
 
