@@ -77,7 +77,7 @@ async def callback_30(context: ContextTypes.DEFAULT_TYPE):
 
 
 if __name__ == '__main__':
-    token = ""
+    token = "5715697665:AAHpq4tI60YLFIAooUxwXgyjqpBo1CEMDmE"
     application = ApplicationBuilder().token(token).build()
 
     # job_queue = application.job_queue
