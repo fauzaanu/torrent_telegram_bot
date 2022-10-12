@@ -12,7 +12,7 @@ def torrent_downloader_as(magnet_url):
     payload = magnet_url
     headers = {
         "content-type": "text/plain",
-        "X-RapidAPI-Key": "",
+        "X-RapidAPI-Key": "630da19d45msh5eadeaf43515995p159c22jsn1a59ad11cd9b",
         "X-RapidAPI-Host": "webtor.p.rapidapi.com"
     }
 
